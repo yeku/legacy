@@ -56,8 +56,8 @@ local Settings = getgenv().LegacySettings or ({
 })
 
 local RobloxGui = CoreGui:WaitForChild("RobloxGui")
-local RBXM = getgenv().RBXMSuite or loadstring(game:HttpGetAsync("https://github.com/richie0866/rbxm-suite/releases/latest/download/rbxm-suite.lua"))()
-local Source = RBXM.download("lxte/Legacy@latest", "Legacy.rbxm")
+local RBXM = getgenv().RBXMSuite or loadstring(game:HttpGet("https://raw.githubusercontent.com/yeku/forks/refs/heads/main/Scripts/RBXMSuite.luau"))()
+local Source = RBXM.download("yeku/Legacy@latest", "Legacy.rbxm")
 local Module = RBXM.launch(Source, {
     runscripts = true,
     deferred = true,
