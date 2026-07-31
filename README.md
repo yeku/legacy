@@ -1,10 +1,10 @@
-<img align="left" src="./github-assets/Logos/LegacyBackground.png" alt="Legacy" height="200" />
+<img align="left" src="./github-assets/Logos/LegacyBackground.png" alt="Legacy" height="150" />
 
-<a href="https://raw.githubusercontent.com/yeku/legacy/refs/heads/main/Source.luau"> <img align="right" src="./github-assets/Buttons/Source.svg" alt="Source" height="200" /> </a>
+<a href="https://raw.githubusercontent.com/yeku/legacy/refs/heads/main/Source.luau"> <img align="right" src="./github-assets/Buttons/Source.svg" alt="Source" height="150" /> </a>
 
 <!-- <img align="right" src="./github-assets/Gaps/Gap.svg" alt="" width="1" height="200" /> -->
 
-<a href="https://github.com/yeku/legacy#loadstring"> <img align="right" src="./github-assets/Buttons/Loadstring.svg" alt="Loadstring" height="200" /> </a>
+<a href="https://github.com/yeku/legacy#loadstring"> <img align="right" src="./github-assets/Buttons/Loadstring.svg" alt="Loadstring" height="150" /> </a>
 
 <img src="./github-assets/Gaps/ClearFloat.svg" alt="" />
 
