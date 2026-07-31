@@ -53,8 +53,8 @@ Most of the source code was originally created by ROBLOX over the years
 Full credit goes to ROBLOX and its original developers
 
 # Showcase
-<img align="left" src="./github-assets/Years/2016.png" alt="2016" height="250" />
-<img align="left" src="./github-assets/Years/2015.png" alt="2015" height="250" />
-<img align="left" src="./github-assets/Years/2014.png" alt="2014" height="250" />
-<img align="left" src="./github-assets/Years/2013.png" alt="2013" height="250" />
-<img align="left" src="./github-assets/Years/2012.png" alt="2012" height="250" />
+<img align="left" src="./github-assets/Years/2016.png" alt="2016" height="350" />
+<img align="left" src="./github-assets/Years/2015.png" alt="2015" height="350" />
+<img align="left" src="./github-assets/Years/2014.png" alt="2014" height="350" />
+<img align="left" src="./github-assets/Years/2013.png" alt="2013" height="350" />
+<img align="left" src="./github-assets/Years/2012.png" alt="2012" height="350" />
