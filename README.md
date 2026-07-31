@@ -46,6 +46,8 @@ getgenv().LegacySettings = ({
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/yeku/legacy/refs/heads/main/Source.luau"))()
 ```
+# Showcase
+<img width="1080" height="3034" alt="Years" src="https://github.com/user-attachments/assets/db7db0a9-19a1-4af9-b932-57c736359717" />
 
 # Credits
 Most of the source code was originally created by ROBLOX over the years
